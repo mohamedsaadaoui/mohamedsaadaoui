@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamed Saadaoui
 
-<!--
-**mohamedsaadaoui/mohamedsaadaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Junior Software Engineer specialized in **Java & Spring Boot & React js**
+💻 Backend / Full Stack | Microservices | REST APIs | React 
 
-Here are some ideas to get you started:
+## 🧠 Tech Stack
+- **Backend:** Java 8+, Spring Boot, Spring Cloud, Hibernate, JPA, JWT
+- **Frontend:** React, Angular
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **DevOps:** Docker, CI/CD
+- **Tools:** Git, Maven
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- Build scalable backend systems with Spring Boot
+- Design REST APIs and microservice architectures
+- Develop secure applications using JWT authentication
+- Work in Agile/Scrum environments
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/mohamed-saadaoui/
+- Email: mrmedsaadaoui@gmail.com
