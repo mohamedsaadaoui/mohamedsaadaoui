@@ -3,7 +3,8 @@
 # Mohamed Saadaoui
 ### Full Stack Software Engineer — Java · Spring Boot · React
 
-Ingénieur logiciel (ESPRIT 2025) — j'ai conçu et livré seul une plateforme ERP en microservices utilisée par **300+ utilisateurs actifs**, avec un chatbot IA ayant réduit les tickets support de **70%**. Aujourd'hui en freelance Full Stack, je construis des backends scalables, des API REST propres et des fonctionnalités IA orientées résultats.
+Ingénieur logiciel diplômé, spécialisé en développement Full Stack Java/Spring Boot et React.js. 
+Expérimenté en architecture Microservices, sécurisation d'APIs REST (JWT/OAuth2), intégration de l'IA et automatisation CI/CD. orienté qualité et performance. Aujourd'hui en freelance Full Stack, je construis des backends scalables, des API REST propres et des fonctionnalités IA orientées résultats.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-saadaoui/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrmedsaadaoui@gmail.com)
@@ -87,6 +88,21 @@ Ingénieur logiciel (ESPRIT 2025) — j'ai conçu et livré seul une plateforme 
 [Demo](#) · [Code](#) · [Case Study](#)
 
 ---
+
+
+### 🏭 Smart Warehouse Platform — Enterprise Inventory & Logistics System
+![Status](https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square)
+`Java 21` `Spring Boot` `Spring Security` `PostgreSQL` `React` `TypeScript` `Docker` `GitHub Actions`
+
+Plateforme de gestion logistique multi-entrepôts conçue pour remplacer un suivi de stock manuel (Excel) par un système temps réel avec alertes de rupture, gestion multi-fournisseurs et dashboard analytique.
+
+- Architecture backend en couches avec Spring Boot, Spring Security (JWT + RBAC), Spring Data JPA
+- Gestion de stock multi-entrepôts avec entrées, sorties et transferts inter-sites
+- Frontend React/TypeScript avec TanStack Query et Material UI
+- Pipeline CI/CD via GitHub Actions, conteneurisation Docker Compose
+- Tests unitaires et d'intégration (JUnit 5, Mockito, Testcontainers)
+
+[Demo](#) · [Code](#) · [Case Study](#)
 
 ## GitHub Stats
 
