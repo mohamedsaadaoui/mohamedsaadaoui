@@ -120,7 +120,6 @@ Plateforme de gestion logistique multi-entrepôts conçue pour remplacer un suiv
 
 </div>
 
-> ⚠️ Ces widgets sont générés dynamiquement — ils fonctionnent uniquement une fois ton vrai username GitHub renseigné, et le repo/profil doit être public.
 
 ---
 
