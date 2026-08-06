@@ -65,7 +65,7 @@ Expérimenté en architecture Microservices, sécurisation d'APIs REST (JWT/OAut
 - Designed a multi-constraint scheduling algorithm — **zero conflicts** across 300+ defense sessions
 - Full CI/CD pipeline (GitHub Actions + Docker), JWT + RBAC security, MinIO document storage
 
-[Demo](#) · [Code](#) · [Case Study](#)
+[Demo](#) · [Code](https://github.com/mohamedsaadaoui/esprit_ARP-webapp) · [Case Study](#)
 
 ---
 
@@ -75,7 +75,7 @@ Expérimenté en architecture Microservices, sécurisation d'APIs REST (JWT/OAut
 - 4 independent Spring Boot microservices (products, orders, payments, users)
 - Behavioural AI recommendation engine — **+35% product click-through rate**
 
-[Demo](#) · [Code](#) · [Case Study](#)
+[Demo](#) · [Code](https://github.com/mohamedsaadaoui/al-saadawi-eshop) · [Case Study](#)
 
 ---
 
@@ -85,7 +85,7 @@ Expérimenté en architecture Microservices, sécurisation d'APIs REST (JWT/OAut
 - Full-stack camping reservation app with interactive map and JWT authentication
 - AI engine combining weather, booking history, and reviews — **+40% suggestion relevance** (A/B test, 50 users)
 
-[Demo](#) · [Code](#) · [Case Study](#)
+[Demo](#) · [Code](https://github.com/mohamedsaadaoui/camp-reservation-platform) · [Case Study](#)
 
 ---
 
@@ -102,7 +102,7 @@ Plateforme de gestion logistique multi-entrepôts conçue pour remplacer un suiv
 - Pipeline CI/CD via GitHub Actions, conteneurisation Docker Compose
 - Tests unitaires et d'intégration (JUnit 5, Mockito, Testcontainers)
 
-[Demo](#) · [Code](#) · [Case Study](#)
+[Demo](#) · [Code](https://github.com/mohamedsaadaoui/Smart-Warehouse) · [Case Study](#)
 
 ## GitHub Stats
 
