@@ -90,6 +90,16 @@ Expérimenté en architecture Microservices, sécurisation d'APIs REST (JWT/OAut
 
 ---
 
+### 🛠️ TuniDesk — HelpDesk / IT Service Management Platform
+`Java 21` `Spring Boot 3` `React 19` `TypeScript` `PostgreSQL` `Spring Security JWT` `WebSocket/STOMP` `Swagger`
+
+- Full-stack helpdesk platform: ticket lifecycle, assignment, status workflow, comments/history, and audit logs
+- SLA tracking with approaching/breach detection (scheduled tasks) and a summary dashboard API
+- Real-time notifications via WebSocket/STOMP (SockJS), role-based access (`ADMIN` / `AGENT` / `USER`), OpenAPI docs
+
+[Demo](#) · [Code](https://github.com/mohamedsaadaoui/TuniDesk-) · [Case Study](#)
+
+---
 
 ### 🏭 Smart Warehouse Platform — Enterprise Inventory & Logistics System
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square)
