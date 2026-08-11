@@ -86,7 +86,12 @@ Expérimenté en architecture Microservices, sécurisation d'APIs REST (JWT/OAut
 - 5 microservices (Eureka service discovery, OpenFeign aggregation, Joi-validated Express/MongoDB booking service)
 - Security hardening: required JWT/admin secrets (fail-fast startup), ADMIN-only access to client data, server-side pricing, race-safe double-booking prevention
 
-[Demo](#) · [Code](https://github.com/mohamedsaadaoui/camp-reservation-platform) · [Case Study](#)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/mohamedsaadaoui/mohamedsaadaoui/main/screenshots/camp-cards.png"><img src="https://raw.githubusercontent.com/mohamedsaadaoui/mohamedsaadaoui/main/screenshots/camp-cards.png" alt="Camp Reservation — available stays" width="48%" /></a>
+  <a href="https://raw.githubusercontent.com/mohamedsaadaoui/mohamedsaadaoui/main/screenshots/camp-map.png"><img src="https://raw.githubusercontent.com/mohamedsaadaoui/mohamedsaadaoui/main/screenshots/camp-map.png" alt="Camp Reservation — interactive map" width="48%" /></a>
+</p>
+
+[Demo](https://raw.githubusercontent.com/mohamedsaadaoui/mohamedsaadaoui/main/screenshots/camp-cards.png) · [Code](https://github.com/mohamedsaadaoui/camp-reservation-platform) · [Case Study](#)
 
 ---
 
@@ -97,7 +102,12 @@ Expérimenté en architecture Microservices, sécurisation d'APIs REST (JWT/OAut
 - SLA tracking with approaching/breach detection (scheduled tasks) and a summary dashboard API
 - Real-time notifications via WebSocket/STOMP (SockJS), role-based access (`ADMIN` / `AGENT` / `USER`), OpenAPI docs
 
-[Demo](#) · [Code](https://github.com/mohamedsaadaoui/TuniDesk-) · [Case Study](#)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/mohamedsaadaoui/mohamedsaadaoui/main/screenshots/tunidesk-dashboard.png"><img src="https://raw.githubusercontent.com/mohamedsaadaoui/mohamedsaadaoui/main/screenshots/tunidesk-dashboard.png" alt="TuniDesk — dashboard" width="48%" /></a>
+  <a href="https://raw.githubusercontent.com/mohamedsaadaoui/mohamedsaadaoui/main/screenshots/tunidesk-tickets.png"><img src="https://raw.githubusercontent.com/mohamedsaadaoui/mohamedsaadaoui/main/screenshots/tunidesk-tickets.png" alt="TuniDesk — tickets" width="48%" /></a>
+</p>
+
+[Demo](https://raw.githubusercontent.com/mohamedsaadaoui/mohamedsaadaoui/main/screenshots/tunidesk-dashboard.png) · [Code](https://github.com/mohamedsaadaoui/TuniDesk-) · [Case Study](#)
 
 ---
 
@@ -113,7 +123,12 @@ Plateforme de gestion logistique multi-entrepôts conçue pour remplacer un suiv
 - Pipeline CI/CD via GitHub Actions, conteneurisation Docker Compose
 - Tests unitaires et d'intégration (JUnit 5, Mockito, Testcontainers)
 
-[Demo](#) · [Code](https://github.com/mohamedsaadaoui/Smart-Warehouse) · [Case Study](#)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/mohamedsaadaoui/mohamedsaadaoui/main/screenshots/smartwh-dashboard.png"><img src="https://raw.githubusercontent.com/mohamedsaadaoui/mohamedsaadaoui/main/screenshots/smartwh-dashboard.png" alt="Smart Warehouse — dashboard" width="48%" /></a>
+  <a href="https://raw.githubusercontent.com/mohamedsaadaoui/mohamedsaadaoui/main/screenshots/smartwh-inventory.png"><img src="https://raw.githubusercontent.com/mohamedsaadaoui/mohamedsaadaoui/main/screenshots/smartwh-inventory.png" alt="Smart Warehouse — inventory" width="48%" /></a>
+</p>
+
+[Demo](https://raw.githubusercontent.com/mohamedsaadaoui/mohamedsaadaoui/main/screenshots/smartwh-dashboard.png) · [Code](https://github.com/mohamedsaadaoui/Smart-Warehouse) · [Case Study](#)
 
 ## GitHub Stats
 
