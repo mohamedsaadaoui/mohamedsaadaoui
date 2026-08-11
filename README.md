@@ -57,13 +57,14 @@ Expérimenté en architecture Microservices, sécurisation d'APIs REST (JWT/OAut
 
 ## Featured Projects
 
-### 🏗️ ERP Platform — Defense Management & AI Chatbot
+### 🏗️  ERP ESPRIT — Gestion intelligente des projets de fin d’études & Assistant IA
 `Java` `Spring Boot` `Spring Cloud` `React.js` `Dialogflow` `Docker` `GitHub Actions` `PostgreSQL` `MinIO`
 
-- Architected **6 microservices** (Defense, Jury, Rooms, Evaluation, Auth, Notifications) serving **300+ active users**
-- Built a Dialogflow NLP chatbot that cut student support tickets by **~70%**
-- Designed a multi-constraint scheduling algorithm — **zero conflicts** across 300+ defense sessions
-- Full CI/CD pipeline (GitHub Actions + Docker), JWT + RBAC security, MinIO document storage
+* Architected **6 microservices** for Academic Project Management, jury coordination, room scheduling, evaluation, authentication, and notifications, serving **300+ active users**
+* Built a **Dialogflow-powered AI chatbot** to assist students, faculty, and administrators, reducing support requests by **~70%**
+* Designed a **multi-constraint scheduling algorithm** to automatically plan academic project presentations with **zero scheduling conflicts** across **300+ sessions**
+* Implemented **CI/CD with GitHub Actions and Docker**, along with **JWT/RBAC security** and **MinIO** for document storage
+
 
 [Demo](#) · [Code](https://github.com/mohamedsaadaoui/esprit_ARP-webapp) · [Case Study](#)
 
