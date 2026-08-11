@@ -79,11 +79,12 @@ Expérimenté en architecture Microservices, sécurisation d'APIs REST (JWT/OAut
 
 ---
 
-### 🏕️ Camp Reservation Platform — Booking System with AI
-`Angular` `Spring Boot` `Node.js` `JWT` `Microservices`
+### 🏕️ Camp Reservation Platform — Microservices Booking System
+`Angular 15` `Spring Boot` `Spring Cloud Eureka` `Node.js/Express` `MongoDB` `MySQL` `JWT` `Docker`
 
-- Full-stack camping reservation app with interactive map and JWT authentication
-- AI engine combining weather, booking history, and reviews — **+40% suggestion relevance** (A/B test, 50 users)
+- Full-stack camping reservation app: interactive Leaflet map, real-time availability, and an admin back-office dashboard
+- 5 microservices (Eureka service discovery, OpenFeign aggregation, Joi-validated Express/MongoDB booking service)
+- Security hardening: required JWT/admin secrets (fail-fast startup), ADMIN-only access to client data, server-side pricing, race-safe double-booking prevention
 
 [Demo](#) · [Code](https://github.com/mohamedsaadaoui/camp-reservation-platform) · [Case Study](#)
 
@@ -145,7 +146,7 @@ Plateforme de gestion logistique multi-entrepôts conçue pour remplacer un suiv
 
 <div align="center">
 
-**Ouvert aux opportunités stage / alternance / premier poste Full Stack**
+**Ouvert aux missions freelance et aux postes Full Stack**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-saadaoui/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrmedsaadaoui@gmail.com)
