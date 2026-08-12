@@ -4,13 +4,22 @@
 ### Full Stack Software Engineer — Java · Spring Boot · React
 
 Ingénieur logiciel diplômé, spécialisé en développement Full Stack Java/Spring Boot et React.js. 
-Expérimenté en architecture Microservices, sécurisation d'APIs REST (JWT/OAuth2), intégration de l'IA et automatisation CI/CD. orienté qualité et performance. Aujourd'hui en freelance Full Stack, je construis des backends scalables, des API REST propres et des fonctionnalités IA orientées résultats.
+Expérimenté en architecture Microservices, sécurisation d'APIs REST (JWT/OAuth2), intégration de l'IA et automatisation CI/CD. Orienté qualité et performance. Aujourd'hui en freelance Full Stack, je construis des backends scalables, des API REST propres et des fonctionnalités IA orientées résultats.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-saadaoui/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrmedsaadaoui@gmail.com)
 ![Location](https://img.shields.io/badge/Ariana%2C%20Tunisia-4CAF50?style=for-the-badge&logo=googlemaps&logoColor=white)
+[![Resume](https://img.shields.io/badge/Resume%20%28CV%29-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Mohamed_Saadaoui_Resume.pdf)
 
 </div>
+
+---
+
+## 📄 CV / Résumé
+
+**One-Page English Resume — Java · Spring Boot · React · Microservices · AI**
+
+[![Download PDF](https://img.shields.io/badge/Download%20PDF-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Mohamed_Saadaoui_Resume.pdf)
 
 ---
 
