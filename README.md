@@ -75,7 +75,7 @@ Expérimenté en architecture Microservices, sécurisation d'APIs REST (JWT/OAut
 * Implemented **CI/CD with GitHub Actions and Docker**, along with **JWT/RBAC security** and **MinIO** for document storage
 
 
-[Demo](#) · [Code](https://github.com/mohamedsaadaoui/esprit_ARP-webapp) · [Case Study](#)
+[Code](https://github.com/mohamedsaadaoui/esprit_ARP-webapp)
 
 ---
 
@@ -85,7 +85,7 @@ Expérimenté en architecture Microservices, sécurisation d'APIs REST (JWT/OAut
 - 4 independent Spring Boot microservices (products, orders, payments, users)
 - Behavioural AI recommendation engine — **+35% product click-through rate**
 
-[Demo](#) · [Code](https://github.com/mohamedsaadaoui/al-saadawi-eshop) · [Case Study](#)
+[Code](https://github.com/mohamedsaadaoui/al-saadawi-eshop)
 
 ---
 
@@ -101,7 +101,7 @@ Expérimenté en architecture Microservices, sécurisation d'APIs REST (JWT/OAut
   <a href="https://raw.githubusercontent.com/mohamedsaadaoui/mohamedsaadaoui/main/screenshots/camp-map.png"><img src="https://raw.githubusercontent.com/mohamedsaadaoui/mohamedsaadaoui/main/screenshots/camp-map.png" alt="Camp Reservation — interactive map" width="48%" /></a>
 </p>
 
-[Demo](https://raw.githubusercontent.com/mohamedsaadaoui/mohamedsaadaoui/main/screenshots/camp-cards.png) · [Code](https://github.com/mohamedsaadaoui/camp-reservation-platform) · [Case Study](#)
+[Demo](https://raw.githubusercontent.com/mohamedsaadaoui/mohamedsaadaoui/main/screenshots/camp-cards.png) · [Code](https://github.com/mohamedsaadaoui/camp-reservation-platform)
 
 ---
 
@@ -117,7 +117,7 @@ Expérimenté en architecture Microservices, sécurisation d'APIs REST (JWT/OAut
   <a href="https://raw.githubusercontent.com/mohamedsaadaoui/mohamedsaadaoui/main/screenshots/tunidesk-tickets.png"><img src="https://raw.githubusercontent.com/mohamedsaadaoui/mohamedsaadaoui/main/screenshots/tunidesk-tickets.png" alt="TuniDesk — tickets" width="48%" /></a>
 </p>
 
-[Demo](https://raw.githubusercontent.com/mohamedsaadaoui/mohamedsaadaoui/main/screenshots/tunidesk-dashboard.png) · [Code](https://github.com/mohamedsaadaoui/TuniDesk-) · [Case Study](#)
+[Demo](https://raw.githubusercontent.com/mohamedsaadaoui/mohamedsaadaoui/main/screenshots/tunidesk-dashboard.png) · [Code](https://github.com/mohamedsaadaoui/TuniDesk-)
 
 ---
 
@@ -138,7 +138,7 @@ Plateforme de gestion logistique multi-entrepôts conçue pour remplacer un suiv
   <a href="https://raw.githubusercontent.com/mohamedsaadaoui/mohamedsaadaoui/main/screenshots/smartwh-inventory.png"><img src="https://raw.githubusercontent.com/mohamedsaadaoui/mohamedsaadaoui/main/screenshots/smartwh-inventory.png" alt="Smart Warehouse — inventory" width="48%" /></a>
 </p>
 
-[Demo](https://raw.githubusercontent.com/mohamedsaadaoui/mohamedsaadaoui/main/screenshots/smartwh-dashboard.png) · [Code](https://github.com/mohamedsaadaoui/Smart-Warehouse) · [Case Study](#)
+[Demo](https://raw.githubusercontent.com/mohamedsaadaoui/mohamedsaadaoui/main/screenshots/smartwh-dashboard.png) · [Code](https://github.com/mohamedsaadaoui/Smart-Warehouse)
 
 ## GitHub Stats
 
