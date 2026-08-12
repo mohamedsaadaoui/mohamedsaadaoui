@@ -9,7 +9,7 @@ Expérimenté en architecture Microservices, sécurisation d'APIs REST (JWT/OAut
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-saadaoui/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrmedsaadaoui@gmail.com)
 ![Location](https://img.shields.io/badge/Ariana%2C%20Tunisia-4CAF50?style=for-the-badge&logo=googlemaps&logoColor=white)
-[![Resume](https://img.shields.io/badge/Resume%20%28CV%29-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Mohamed_Saadaoui_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume%20%28CV%29-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/mohamedsaadaoui/mohamedsaadaoui/main/Mohamed_Saadaoui_Resume.pdf)
 
 </div>
 
@@ -19,7 +19,7 @@ Expérimenté en architecture Microservices, sécurisation d'APIs REST (JWT/OAut
 
 **One-Page English Resume — Java · Spring Boot · React · Microservices · AI**
 
-[![Download PDF](https://img.shields.io/badge/Download%20PDF-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Mohamed_Saadaoui_Resume.pdf)
+[![Download PDF](https://img.shields.io/badge/Download%20PDF-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/mohamedsaadaoui/mohamedsaadaoui/main/Mohamed_Saadaoui_Resume.pdf)
 
 ---
 
